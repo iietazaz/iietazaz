@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ietazaz Aslam</h1>
-<h3 align="center">A passionate computer sciences student from Pakistan.</h3>
+<h3 align="center">A passionate computer sciences student at Namal University Mianwali</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iietazaz&label=Profile%20views&color=0e75b6&style=flat" alt="iietazaz" /> </p>
 
@@ -7,19 +7,13 @@
 
 - 🌱 I’m currently learning **Django Framework.**
 
-- 👯 I’m looking to collaborate on **Data Science, ML and AI projects.**
-
-- 🤝 I’m looking for help with **learning Django.**
-
-- 👨‍💻 Some of my projects are available at [https://github.com/iietazaz](https://github.com/iietazaz)
+- 👯 I’m also working on **Data Science, ML, and AI projects.**
 
 - 💬You can ping me on LinkedIn anytime through this link! **https://www.linkedin.com/in/ietazaz-aslam**
 
-- 📫 How to reach me **ietazazaslam2001@gmail.com**
+- 📫 You can reach out to me at **ietazazaslam2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14CYKlqC26VRT_q5iH4Z5sd-ioL0FYSag/view?usp=drive_link](https://drive.google.com/file/d/14CYKlqC26VRT_q5iH4Z5sd-ioL0FYSag/view?usp=drive_link)
-
-- ⚡ Fun fact **I think sometimes I'm funny😎🙌**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
