@@ -9,9 +9,9 @@
 
 - 👯 I’m also working on **Data Science, ML, and AI projects.**
 
-- 💬You can ping me on LinkedIn anytime through this link! **https://www.linkedin.com/in/ietazaz-aslam**
+- 💬 You can ping me on LinkedIn anytime through this link! **https://www.linkedin.com/in/ietazaz-aslam**
 
-- 📫 You can reach out to me at **ietazazaslam2001@gmail.com**
+- 📫 You can also reach out to me at **ietazazaslam2001@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/14CYKlqC26VRT_q5iH4Z5sd-ioL0FYSag/view?usp=drive_link](https://drive.google.com/file/d/14CYKlqC26VRT_q5iH4Z5sd-ioL0FYSag/view?usp=drive_link)
 
